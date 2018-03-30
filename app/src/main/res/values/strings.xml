@@ -12,5 +12,8 @@
     <string name="tab_text_2">Tab 2</string>
     <string name="tab_text_3">Tab 3</string>
     <string name="action_settings">Settings</string>
-    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="latitude_label">Latitude</string>
+    <string name="longitude_label">Longitude</string>
+    <string name="accuracy_label">Accuracy</string>
+    <string name="no_permissions">You have not granted the app the necessary permissions</string>
 </resources>
