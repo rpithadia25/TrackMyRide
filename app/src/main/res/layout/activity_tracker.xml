@@ -6,13 +6,54 @@
     android:layout_height="match_parent"
     tools:context="com.pithadia.trackmyride.trackmyride.TrackerActivity">
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Hello World!"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintLeft_toLeftOf="parent"
-        app:layout_constraintRight_toRightOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+    <!--<FrameLayout-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent"-->
+        <!--android:layout_weight="1"-->
+        <!--android:background="@android:color/black"-->
+        <!--android:padding="@dimen/button_container_padding">-->
+
+        <!--<com.uber.sdk.android.core.auth.LoginButton-->
+            <!--android:id="@+id/uber_button_white"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_gravity="center"-->
+            <!--app:ub__request_code="1111"-->
+            <!--app:ub__style="white" />-->
+
+    <!--</FrameLayout>-->
+
+    <!--<FrameLayout-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent"-->
+        <!--android:layout_weight="1"-->
+        <!--android:background="@android:color/white"-->
+        <!--android:padding="@dimen/button_container_padding">-->
+
+        <!--<com.uber.sdk.android.core.auth.LoginButton-->
+            <!--android:id="@+id/uber_button_black"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_gravity="center"-->
+            <!--app:ub__scopes="all_trips|request|profile"-->
+            <!--app:ub__style="black" />-->
+
+    <!--</FrameLayout>-->
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:background="@android:color/black"
+        android:padding="@dimen/button_container_padding">
+
+        <Button
+            android:id="@+id/custom_uber_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="@string/custom_login_text" />
+
+    </FrameLayout>
 
 </android.support.constraint.ConstraintLayout>
