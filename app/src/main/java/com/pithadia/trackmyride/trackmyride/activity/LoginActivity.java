@@ -1,13 +1,12 @@
-package com.pithadia.trackmyride.trackmyride;
+package com.pithadia.trackmyride.trackmyride.activity;
 
 import android.content.ClipData;
 import android.content.ClipboardManager;
 import android.content.Context;
 import android.content.Intent;
-import android.net.Uri;
+import android.os.Bundle;
 import android.support.annotation.NonNull;
 import android.support.v7.app.AppCompatActivity;
-import android.os.Bundle;
 import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
@@ -15,6 +14,7 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.Toast;
 
+import com.pithadia.trackmyride.trackmyride.R;
 import com.uber.sdk.android.core.auth.AccessTokenManager;
 import com.uber.sdk.android.core.auth.AuthenticationError;
 import com.uber.sdk.android.core.auth.LoginCallback;

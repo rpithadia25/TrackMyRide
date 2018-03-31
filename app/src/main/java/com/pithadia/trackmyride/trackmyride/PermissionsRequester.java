@@ -8,7 +8,7 @@ import android.support.v4.app.ActivityCompat;
 
 import java.lang.ref.WeakReference;
 
-final class PermissionsRequester {
+public final class PermissionsRequester {
     private static final String[] PERMISSIONS = {
             Manifest.permission.ACCESS_COARSE_LOCATION,
             Manifest.permission.ACCESS_FINE_LOCATION
@@ -16,7 +16,7 @@ final class PermissionsRequester {
 
     private final WeakReference<Activity> activityWeakReference;
 
-    static PermissionsRequester newInstance(@NonNull Activity activity) {
+    public static PermissionsRequester newInstance(@NonNull Activity activity) {
         WeakReference<Activity> activityWeakReference = new WeakReference<>(activity);
         return new PermissionsRequester(activityWeakReference);
     }
@@ -25,7 +25,7 @@ final class PermissionsRequester {
         this.activityWeakReference = activityWeakReference;
     }
 
-    boolean hasPermissions() {
+    public boolean hasPermissions() {
         Activity activity = activityWeakReference.get();
         if (activity != null) {
             for (String permission : PERMISSIONS) {
@@ -38,7 +38,7 @@ final class PermissionsRequester {
         return false;
     }
 
-    void requestPermissions() {
+    public void requestPermissions() {
         Activity activity = activityWeakReference.get();
         if (activity != null) {
             ActivityCompat.requestPermissions(activity, PERMISSIONS, 0);

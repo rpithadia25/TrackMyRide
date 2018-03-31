@@ -1,4 +1,4 @@
-package com.pithadia.trackmyride.trackmyride;
+package com.pithadia.trackmyride.trackmyride.adapter;
 
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;

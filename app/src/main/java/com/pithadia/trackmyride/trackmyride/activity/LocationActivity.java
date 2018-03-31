@@ -1,4 +1,4 @@
-package com.pithadia.trackmyride.trackmyride;
+package com.pithadia.trackmyride.trackmyride.activity;
 
 import android.content.pm.PackageManager;
 import android.os.Bundle;
@@ -7,6 +7,11 @@ import android.support.design.widget.Snackbar;
 import android.support.design.widget.TabLayout;
 import android.support.v4.view.ViewPager;
 import android.support.v7.app.AppCompatActivity;
+
+import com.pithadia.trackmyride.trackmyride.PermissionsRequester;
+import com.pithadia.trackmyride.trackmyride.R;
+import com.pithadia.trackmyride.trackmyride.adapter.SectionsPageAdapter;
+import com.pithadia.trackmyride.trackmyride.fragment.LocationFragment;
 
 public class LocationActivity extends AppCompatActivity {
 
