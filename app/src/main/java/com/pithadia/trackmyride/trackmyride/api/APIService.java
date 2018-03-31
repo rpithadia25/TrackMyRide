@@ -14,5 +14,5 @@ import retrofit2.http.Path;
 public interface APIService {
 
     @POST("/services/{channel_key}")
-    Call<Data> sendLocation(@Path(value = "channel_key") String channelKey, @Body Data data);
+    Call<Data> sendLocation(@Path(value = "channel_key", encoded = true) String channelKey, @Body Data data);
 }

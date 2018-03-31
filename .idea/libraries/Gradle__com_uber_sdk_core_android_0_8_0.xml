@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.uber.sdk:core-android-0.8.0">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/core-android-0.8.0.aar/cdf7926742cebd41001ddd8328b263f9/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/core-android-0.8.0.aar/cdf7926742cebd41001ddd8328b263f9/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.uber.sdk/core-android/0.8.0/e68eba6d7bf77afe1d25077d12669d93029cb496/core-android-0.8.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

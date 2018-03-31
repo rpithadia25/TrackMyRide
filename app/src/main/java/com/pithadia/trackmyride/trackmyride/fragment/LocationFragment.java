@@ -136,8 +136,13 @@ public class LocationFragment extends Fragment {
 
         ApiUtils.getAPIService().sendLocation(SLACK_CHANNEL_KEY,
                 new Data("#android", "Rakshit", locationString, ":ghost:")).enqueue(new Callback<Data>() {
+
             @Override
             public void onResponse(Call<Data> call, Response<Data> response) {
+
+                if (response != null) {
+                    Log.i("TAG", "Response: " + response.toString());
+                }
 
                 if (response.isSuccessful()) {
                     Log.i(TAG, "POST submitted to Slack Channel #android." + response.body().toString());
@@ -146,7 +151,7 @@ public class LocationFragment extends Fragment {
 
             @Override
             public void onFailure(Call<Data> call, Throwable t) {
-                Log.e(TAG, "Unable to submit post to Slack.");
+                Log.e(TAG, "Unable to submit post to Slack: " + t.getMessage());
             }
         });
     }
