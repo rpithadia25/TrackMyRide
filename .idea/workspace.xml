@@ -10,79 +10,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1ff46a37-ade6-4956-b0c0-dc4acb8f86c7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/com_google_android_gms_play_services_base_12_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/com_google_android_gms_play_services_base_license_12_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/com_google_android_gms_play_services_basement_12_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/com_google_android_gms_play_services_basement_license_12_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/com_google_android_gms_play_services_location_12_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/com_google_android_gms_play_services_location_license_12_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/com_google_android_gms_play_services_tasks_12_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/com_google_android_gms_play_services_tasks_license_12_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/pithadia/trackmyride/trackmyride/LocationFragment.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/pithadia/trackmyride/trackmyride/PermissionsRequester.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/pithadia/trackmyride/trackmyride/SectionsPageAdapter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/animation_fragment.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/graph_fragment.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/location_fragment.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_location.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-03-28-22-22-57-986.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-03-28-22-22-57-986.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-03-28-22-31-54-500.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-03-28-22-31-54-500.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-03-28-22-32-02-347.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-03-28-22-32-02-347.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-03-28-22-32-47-435.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-03-28-22-32-47-435.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-03-28-22-35-03-722.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-03-28-22-35-03-722.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-03-28-22-35-52-751.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-03-28-22-35-52-751.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-03-28-22-37-05-841.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-03-28-22-37-05-841.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-03-28-22-38-06-934.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-03-28-22-38-06-934.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-03-28-22-38-26-775.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-03-28-22-38-26-775.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-03-28-22-44-01-201.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-03-28-22-44-01-201.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-03-28-22-46-11-836.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-03-28-22-46-11-836.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-03-28-22-46-28-064.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-03-28-22-46-28-064.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-03-28-22-47-11-641.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-03-28-22-47-11-641.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-03-28-22-47-53-019.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-03-28-22-47-53-019.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-03-28-22-48-38-289.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-03-28-22-48-38-289.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-03-28-22-49-12-897.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-03-28-22-49-12-897.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-03-28-22-49-50-050.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-03-28-22-49-50-050.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-03-28-22-50-27-099.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-03-28-22-50-27-099.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-03-29-19-54-19-867.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-03-29-19-54-19-867.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-03-29-19-54-38-071.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-03-29-19-54-38-071.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-03-29-23-46-30-026.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-03-29-23-46-30-026.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-03-29-23-48-34-099.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-03-29-23-48-34-099.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-03-29-23-49-47-351.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-03-29-23-49-47-351.rawproto" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/pithadia/trackmyride/trackmyride/TrackerActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/pithadia/trackmyride/trackmyride/LoginActivity.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/fileHashes/resourceHashesCache.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/fileHashes/resourceHashesCache.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/javaCompile/classAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/javaCompile/classAnalysis.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/javaCompile/jarAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/javaCompile/jarAnalysis.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/javaCompile/javaCompile.lock" afterPath="$PROJECT_DIR$/.gradle/4.1/javaCompile/javaCompile.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/javaCompile/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/javaCompile/taskHistory.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/javaCompile/taskJars.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/javaCompile/taskJars.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/taskHistory/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/taskHistory/fileSnapshots.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build.gradle" afterPath="$PROJECT_DIR$/app/build.gradle" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/pithadia/trackmyride/trackmyride/LocationActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/pithadia/trackmyride/trackmyride/LocationActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_location.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_location.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/pithadia/trackmyride/trackmyride/LocationFragment.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/pithadia/trackmyride/trackmyride/LocationFragment.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_tracker.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_tracker.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/location_fragment.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/location_fragment.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -109,86 +57,56 @@
       <file leaf-file-name="LocationActivity.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pithadia/trackmyride/trackmyride/LocationActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+            <state relative-caret-position="26">
+              <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#2060#2083#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PermissionsRequester.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pithadia/trackmyride/trackmyride/PermissionsRequester.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="34" column="13" lean-forward="true" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SectionsPageAdapter.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pithadia/trackmyride/trackmyride/SectionsPageAdapter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#692#693#0" expanded="true" />
-                <element signature="e#717#718#0" expanded="true" />
-                <element signature="e#785#786#0" expanded="true" />
-                <element signature="e#840#841#0" expanded="true" />
-                <element signature="e#899#900#0" expanded="true" />
-                <element signature="e#949#950#0" expanded="true" />
-                <element signature="e#992#993#0" expanded="true" />
-                <element signature="e#1035#1036#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="activity_location.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_location.xml">
-          <provider editor-type-id="android-designer2">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="327">
-              <caret line="37" column="52" lean-forward="false" selection-start-line="37" selection-start-column="52" selection-end-line="37" selection-end-column="52" />
-              <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="location_fragment.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/location_fragment.xml">
-          <provider editor-type-id="android-designer2">
-            <state />
-          </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="359">
-              <caret line="64" column="69" lean-forward="false" selection-start-line="64" selection-start-column="69" selection-end-line="64" selection-end-column="69" />
+            <state relative-caret-position="236">
+              <caret line="22" column="45" lean-forward="false" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
               <folding>
-                <element signature="e#624#648#0" expanded="true" />
-                <element signature="e#1040#1065#0" expanded="true" />
-                <element signature="e#1458#1482#0" expanded="true" />
+                <element signature="e#568#601#0" expanded="true" />
+                <element signature="e#630#665#0" expanded="true" />
+                <element signature="e#695#730#0" expanded="true" />
+                <element signature="e#758#791#0" expanded="true" />
+                <element signature="e#820#860#0" expanded="true" />
               </folding>
             </state>
+          </provider>
+          <provider editor-type-id="android-designer2">
+            <state />
           </provider>
         </entry>
       </file>
       <file leaf-file-name="LocationFragment.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pithadia/trackmyride/trackmyride/LocationFragment.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-5">
-              <caret line="67" column="35" lean-forward="false" selection-start-line="67" selection-start-column="9" selection-end-line="67" selection-end-column="35" />
+            <state relative-caret-position="1065">
+              <caret line="71" column="68" lean-forward="false" selection-start-line="71" selection-start-column="68" selection-end-line="71" selection-end-column="68" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#3066#3358#0" expanded="true" />
-                <element signature="e#3357#3358#0" expanded="true" />
+                <element signature="e#1285#1334#0" expanded="true" />
+                <element signature="e#1362#1412#0" expanded="true" />
+                <element signature="e#3680#3972#0" expanded="true" />
+                <element signature="e#3971#3972#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Fragment.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.support/support-fragment/26.1.0/8279b00f5194701ff18363fa2958c5a26670b0ef/support-fragment-26.1.0-sources.jar!/android/support/v4/app/Fragment.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="2353" column="0" lean-forward="false" selection-start-line="2353" selection-start-column="0" selection-end-line="2353" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -196,8 +114,18 @@
       <file leaf-file-name="strings.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="51" lean-forward="false" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="51" />
+            <state relative-caret-position="120">
+              <caret line="8" column="18" lean-forward="false" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FragmentManager.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.support/support-fragment/26.1.0/8279b00f5194701ff18363fa2958c5a26670b0ef/support-fragment-26.1.0-sources.jar!/android/support/v4/app/FragmentManager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="1422" column="0" lean-forward="false" selection-start-line="1422" selection-start-column="0" selection-end-line="1422" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -205,25 +133,39 @@
       </file>
       <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="19" lean-forward="false" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
           <provider editor-type-id="android-manifest">
             <state />
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LoginActivity.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pithadia/trackmyride/trackmyride/LoginActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="52" lean-forward="false" selection-start-line="18" selection-start-column="52" selection-end-line="18" selection-end-column="52" />
+            <state relative-caret-position="446">
+              <caret line="68" column="42" lean-forward="true" selection-start-line="68" selection-start-column="42" selection-end-line="68" selection-end-column="42" />
               <folding>
-                <element signature="e#439#457#0" expanded="true" />
-                <element signature="e#980#1013#0" expanded="true" />
+                <element signature="e#3485#3514#0" expanded="true" />
+                <element signature="e#3710#3763#0" expanded="true" />
+                <element signature="e#3911#3912#0" expanded="true" />
+                <element signature="e#3952#3953#0" expanded="true" />
+                <element signature="e#4105#4170#0" expanded="true" />
+                <element signature="e#4768#4828#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <file leaf-file-name="Context.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/Library/Android/sdk/platforms/android-26/android.jar!/android/content/Context.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="46" lean-forward="false" selection-start-line="25" selection-start-column="46" selection-end-line="25" selection-end-column="46" />
+            <state relative-caret-position="277">
+              <caret line="160" column="24" lean-forward="false" selection-start-line="160" selection-start-column="24" selection-end-line="160" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -1968,12 +1910,14 @@
         <option value="$PROJECT_DIR$/app/src/main/res/layout/animation_fragment.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/pithadia/trackmyride/trackmyride/SectionsPageAdapter.java" />
         <option value="$PROJECT_DIR$/app/build.gradle" />
-        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/pithadia/trackmyride/trackmyride/LocationActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/pithadia/trackmyride/trackmyride/PermissionsRequester.java" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/location_fragment.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/pithadia/trackmyride/trackmyride/LocationFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/location_fragment.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/pithadia/trackmyride/trackmyride/SampleLoginCallback.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/pithadia/trackmyride/trackmyride/LoginActivity.java" />
       </list>
     </option>
   </component>
@@ -1981,6 +1925,40 @@
     <option name="y" value="22" />
     <option name="width" value="1680" />
     <option name="height" value="960" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Android</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Java 8Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>LintAndroid</id>
+          </State>
+          <State>
+            <id>SecurityLintAndroid</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -1998,6 +1976,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane" />
       <pane id="Scratches" />
       <pane id="PackagesPane" />
       <pane id="AndroidView">
@@ -2010,24 +1989,6 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="Gradle Scripts" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidBuildScriptsGroupNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TrackMyRide" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidResFolderNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="values" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidResFolderTypeNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -2059,24 +2020,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="layout" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidResFolderTypeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TrackMyRide" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidResFolderNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="drawable" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidResFolderTypeNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -2128,13 +2071,12 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="ProjectPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
-    <property name="settings.editor.selected.configurable" value="android.sdk-updates" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/rakshitpithadia/Documents/Android/TrackMyRide/app/src/main/java/com/pithadia/trackmyride/trackmyride/LocationActivity.java&#10;Build&#9;PSI&#9;JAVA://com.pithadia.trackmyride.trackmyride.BuildConfig" />
     <property name="device.picker.selection" value="Pixel_2_API_P" />
   </component>
@@ -2236,7 +2178,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1522392686828" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1522468946228" />
       </method>
     </configuration>
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests">
@@ -2284,7 +2226,7 @@
       </Profilers>
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1522392686828" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1522468946228" />
       </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -2467,7 +2409,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1522392686829" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1522468946229" />
       </method>
     </configuration>
     <list size="1">
@@ -2513,28 +2455,29 @@
     <editor active="true" />
     <layout>
       <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32873562" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32873562" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Device File Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32873562" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32873562" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24969475" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32988507" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Device File Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -2542,92 +2485,58 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24969475" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/pithadia/trackmyride/trackmyride/LocationFragment.java</url>
+          <line>66</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/pithadia/trackmyride/trackmyride/LocationFragment.java</url>
+          <line>89</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/pithadia/trackmyride/trackmyride/LoginActivity.java</url>
+          <line>91</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="6" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="11" lean-forward="true" selection-start-line="30" selection-start-column="11" selection-end-line="30" selection-end-column="11" />
-          <folding>
-            <element signature="e#439#457#0" expanded="true" />
-            <element signature="e#980#1013#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_tracker.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="43" lean-forward="false" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/dimens.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="33" lean-forward="false" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pithadia/trackmyride/trackmyride/TrackerActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1290">
-          <caret line="86" column="5" lean-forward="false" selection-start-line="86" selection-start-column="5" selection-end-line="86" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#2724#2725#0" expanded="false" />
-            <element signature="e#2796#2797#0" expanded="false" />
-            <element signature="e#3897#3898#0" expanded="false" />
-            <element signature="e#3938#3939#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pithadia/trackmyride/trackmyride/LocationActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="765">
           <caret line="68" column="0" lean-forward="false" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#2060#2083#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_location.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_location.xml" />
     <entry file="file://$PROJECT_DIR$/app/src/main/res/menu/menu_main.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="36" lean-forward="false" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
           <folding />
         </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
@@ -2658,22 +2567,19 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
           <caret line="30" column="11" lean-forward="true" selection-start-line="30" selection-start-column="11" selection-end-line="30" selection-end-column="11" />
-          <folding>
-            <element signature="e#439#457#0" expanded="true" />
-            <element signature="e#980#1013#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_tracker.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="21" column="43" lean-forward="false" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
           <folding />
         </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/values/dimens.xml">
@@ -2684,17 +2590,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pithadia/trackmyride/trackmyride/TrackerActivity.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pithadia/trackmyride/trackmyride/LoginActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1290">
           <caret line="86" column="5" lean-forward="false" selection-start-line="86" selection-start-column="5" selection-end-line="86" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#2724#2725#0" expanded="false" />
-            <element signature="e#2796#2797#0" expanded="false" />
-            <element signature="e#3897#3898#0" expanded="false" />
-            <element signature="e#3938#3939#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2704,42 +2603,28 @@
           <caret line="68" column="0" lean-forward="false" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#2060#2083#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_location.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_location.xml" />
     <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-          <folding>
-            <element signature="e#439#457#0" expanded="true" />
-            <element signature="e#980#1013#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/menu/menu_main.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="36" lean-forward="false" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
           <folding />
         </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
@@ -2759,14 +2644,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_tracker.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="21" column="43" lean-forward="false" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
           <folding />
         </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/values/dimens.xml">
@@ -2777,17 +2662,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pithadia/trackmyride/trackmyride/TrackerActivity.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pithadia/trackmyride/trackmyride/LoginActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1860">
           <caret line="161" column="0" lean-forward="true" selection-start-line="161" selection-start-column="0" selection-end-line="161" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#2724#2725#0" expanded="false" />
-            <element signature="e#2796#2797#0" expanded="false" />
-            <element signature="e#3897#3898#0" expanded="false" />
-            <element signature="e#3938#3939#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2795,22 +2673,19 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="49" />
-          <folding>
-            <element signature="e#439#457#0" expanded="true" />
-            <element signature="e#980#1013#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/menu/menu_main.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="36" lean-forward="false" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
           <folding />
         </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
@@ -2883,12 +2758,82 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/menu/menu_main.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="36" lean-forward="false" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_tracker.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="43" lean-forward="false" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_location.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/graph_fragment.xml">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/animation_fragment.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_location.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="37" column="52" lean-forward="false" selection-start-line="37" selection-start-column="52" selection-end-line="37" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/play-services-location-12.0.0.aar/61b2a7d7d0862b93ec48732c114de2d9/jars/classes.jar!/com/google/android/gms/location/FusedLocationProviderClient.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="63" column="22" lean-forward="false" selection-start-line="63" selection-start-column="22" selection-end-line="63" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pithadia/trackmyride/trackmyride/PermissionsRequester.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="34" column="13" lean-forward="false" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pithadia/trackmyride/trackmyride/SectionsPageAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="20" column="38" lean-forward="false" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
           <folding />
         </state>
       </provider>
@@ -2901,64 +2846,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_tracker.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="43" lean-forward="false" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pithadia/trackmyride/trackmyride/TrackerActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="765">
-          <caret line="86" column="5" lean-forward="false" selection-start-line="86" selection-start-column="5" selection-end-line="86" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#2724#2725#0" expanded="false" />
-            <element signature="e#2796#2797#0" expanded="false" />
-            <element signature="e#3897#3898#0" expanded="false" />
-            <element signature="e#3938#3939#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_location.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="70" lean-forward="true" selection-start-line="14" selection-start-column="70" selection-end-line="14" selection-end-column="70" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/graph_fragment.xml">
-      <provider selected="true" editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/animation_fragment.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
@@ -2967,107 +2854,109 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
-      <provider editor-type-id="android-manifest">
-        <state />
-      </provider>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.support/support-fragment/26.1.0/8279b00f5194701ff18363fa2958c5a26670b0ef/support-fragment-26.1.0-sources.jar!/android/support/v4/app/Fragment.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="52" lean-forward="false" selection-start-line="18" selection-start-column="52" selection-end-line="18" selection-end-column="52" />
+        <state relative-caret-position="165">
+          <caret line="2353" column="0" lean-forward="false" selection-start-line="2353" selection-start-column="0" selection-end-line="2353" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.support/support-fragment/26.1.0/8279b00f5194701ff18363fa2958c5a26670b0ef/support-fragment-26.1.0-sources.jar!/android/support/v4/app/FragmentManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="1422" column="0" lean-forward="false" selection-start-line="1422" selection-start-column="0" selection-end-line="1422" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/location_fragment.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="22" column="45" lean-forward="false" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
           <folding>
-            <element signature="e#439#457#0" expanded="true" />
-            <element signature="e#980#1013#0" expanded="true" />
+            <element signature="e#568#601#0" expanded="true" />
+            <element signature="e#630#665#0" expanded="true" />
+            <element signature="e#695#730#0" expanded="true" />
+            <element signature="e#758#791#0" expanded="true" />
+            <element signature="e#820#860#0" expanded="true" />
           </folding>
         </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="19" lean-forward="false" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-manifest">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="51" lean-forward="false" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="51" />
+        <state relative-caret-position="120">
+          <caret line="8" column="18" lean-forward="false" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pithadia/trackmyride/trackmyride/LocationActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+        <state relative-caret-position="26">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#2060#2083#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_location.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="327">
-          <caret line="37" column="52" lean-forward="false" selection-start-line="37" selection-start-column="52" selection-end-line="37" selection-end-column="52" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/location_fragment.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
-          <caret line="64" column="69" lean-forward="false" selection-start-line="64" selection-start-column="69" selection-end-line="64" selection-end-column="69" />
-          <folding>
-            <element signature="e#624#648#0" expanded="true" />
-            <element signature="e#1040#1065#0" expanded="true" />
-            <element signature="e#1458#1482#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/play-services-location-12.0.0.aar/61b2a7d7d0862b93ec48732c114de2d9/jars/classes.jar!/com/google/android/gms/location/FusedLocationProviderClient.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="63" column="22" lean-forward="false" selection-start-line="63" selection-start-column="22" selection-end-line="63" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pithadia/trackmyride/trackmyride/LocationFragment.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-5">
-          <caret line="67" column="35" lean-forward="false" selection-start-line="67" selection-start-column="9" selection-end-line="67" selection-end-column="35" />
+        <state relative-caret-position="1065">
+          <caret line="71" column="68" lean-forward="false" selection-start-line="71" selection-start-column="68" selection-end-line="71" selection-end-column="68" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#3066#3358#0" expanded="true" />
-            <element signature="e#3357#3358#0" expanded="true" />
+            <element signature="e#1285#1334#0" expanded="true" />
+            <element signature="e#1362#1412#0" expanded="true" />
+            <element signature="e#3680#3972#0" expanded="true" />
+            <element signature="e#3971#3972#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pithadia/trackmyride/trackmyride/PermissionsRequester.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pithadia/trackmyride/trackmyride/SampleLoginCallback.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="34" column="13" lean-forward="true" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+        <state relative-caret-position="405">
+          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pithadia/trackmyride/trackmyride/SectionsPageAdapter.java">
+    <entry file="jar://$USER_HOME$/Library/Android/sdk/platforms/android-26/android.jar!/android/content/Context.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+        <state relative-caret-position="277">
+          <caret line="160" column="24" lean-forward="false" selection-start-line="160" selection-start-column="24" selection-end-line="160" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pithadia/trackmyride/trackmyride/LoginActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="446">
+          <caret line="68" column="42" lean-forward="true" selection-start-line="68" selection-start-column="42" selection-end-line="68" selection-end-column="42" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#692#693#0" expanded="true" />
-            <element signature="e#717#718#0" expanded="true" />
-            <element signature="e#785#786#0" expanded="true" />
-            <element signature="e#840#841#0" expanded="true" />
-            <element signature="e#899#900#0" expanded="true" />
-            <element signature="e#949#950#0" expanded="true" />
-            <element signature="e#992#993#0" expanded="true" />
-            <element signature="e#1035#1036#0" expanded="true" />
+            <element signature="e#3485#3514#0" expanded="true" />
+            <element signature="e#3710#3763#0" expanded="true" />
+            <element signature="e#3911#3912#0" expanded="true" />
+            <element signature="e#3952#3953#0" expanded="true" />
+            <element signature="e#4105#4170#0" expanded="true" />
+            <element signature="e#4768#4828#0" expanded="true" />
           </folding>
         </state>
       </provider>

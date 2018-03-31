@@ -31,11 +31,21 @@ public class LocationFragment extends Fragment {
     private TextView latitudeValue;
     private TextView longitudeValue;
 
+    private String mLatitudeLabel;
+    private String mLongitudeLabel;
+
+    private LocationRequest mLocationRequest;
+
     private FusedLocationProviderClient fusedLocationProviderClient = null;
 
     @Override
     public void onStart() {
         super.onStart();
+
+        mLatitudeLabel = getResources().getString(R.string.latitude_label);
+        mLongitudeLabel = getResources().getString(R.string.longitude_label);
+
+        createLocationRequest();
         registerForLocationUpdates();
     }
 
@@ -56,20 +66,28 @@ public class LocationFragment extends Fragment {
     void updatePosition(Location location) {
         String latitudeString = createFractionString(location.getLatitude());
         String longitudeString = createFractionString(location.getLongitude());
-        latitudeValue.setText(latitudeString);
-        longitudeValue.setText(longitudeString);
+
+        latitudeValue.setText(String.format(Locale.ENGLISH, "%s: %s", mLatitudeLabel,
+                latitudeString));
+        longitudeValue.setText(String.format(Locale.ENGLISH, "%s: %s", mLongitudeLabel,
+                longitudeString));
     }
 
     private String createFractionString(double fraction) {
         return String.format(Locale.getDefault(), FRACTIONAL_FORMAT, fraction);
     }
 
+    private void createLocationRequest() {
+        mLocationRequest = LocationRequest.create();
+        mLocationRequest.setInterval(6000);
+        mLocationRequest.setPriority(LocationRequest.PRIORITY_HIGH_ACCURACY);
+    }
+
     @SuppressLint("MissingPermission")
     void registerForLocationUpdates() {
         FusedLocationProviderClient locationProviderClient = getFusedLocationProviderClient();
-        LocationRequest locationRequest = LocationRequest.create();
         Looper looper = Looper.myLooper();
-        locationProviderClient.requestLocationUpdates(locationRequest, locationCallback, looper);
+        locationProviderClient.requestLocationUpdates(mLocationRequest, locationCallback, looper);
     }
 
     @NonNull
